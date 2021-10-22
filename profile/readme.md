@@ -5,7 +5,7 @@ We build products of the **highest quality**. Whether they're our products, tool
 ### 😎 Core Projects
 
 - [**Azury**](https://azury.gg) - an easy-to-use file-sharing network <br> `v1.4.7` <br><br>
-- [**Devyl**](https://azury.gg) - a modern url shortening service <br> `UPCOMING` <br><br>
+- [**Devyl**](https://devyl.net) - a modern url shortening service <br> `UPCOMING` <br><br>
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache <br> `v1.0.9`
 
 ### 🥰 Well-Maintained Projects
