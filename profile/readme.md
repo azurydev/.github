@@ -4,7 +4,7 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 🌎 [Visit our Website](https://azury.dev)
 
-## Services and Products
+## Creations
 
 ### 🧠 Core
 
