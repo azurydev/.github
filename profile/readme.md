@@ -1,8 +1,8 @@
-# Hey, this is us! 🤗
+# Hey, this is us!
 
 We build products of the **highest quality**. Whether they're our products, tools for third-party products, or anything else - we have them all in stock. We strive to gently but precisely build an empire that other companies can count on and people like you can trust.
 
-🌎 [Visit our Website](https://azury.dev)
+[Visit our Website](https://azury.dev)
 
 ## Creations
 
