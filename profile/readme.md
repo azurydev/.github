@@ -6,9 +6,10 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 ## Creations
 
+[**Azury**](https://azury.gg), an easy-to-use file-sharing network, is our flagship product.
+
 ### Core
 
-- [**Azury**](https://azury.gg) - an easy-to-use file-sharing network
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache
 - [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING SOON`
 
