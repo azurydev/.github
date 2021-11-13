@@ -16,3 +16,4 @@ We build products of the **highest quality**. Whether they're our products, tool
 ### Active
 
 - [**noscan**](https://github.com/azurystudios/noscan) - a more flexible sdk for [unscan](https://unscan.co)
+- [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING SOON`
