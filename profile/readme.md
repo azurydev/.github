@@ -1,19 +1,19 @@
-# Hey, this is us!
+## Hey, this is us! 👋
 
 We build products of the **highest quality**. Whether they're our products, tools for third-party products, or anything else - we have them all in stock. We strive to gently but precisely build an empire that other companies can count on and people like you can trust.
 
-[Visit our Website](https://azury.dev)
+🔗 [Visit our Website](https://azury.dev)
 
-## Creations
+### 🧩 Products 🦄
 
 [**Azury**](https://azury.gg), an easy-to-use file-sharing network, is our flagship product.
 
-### Core
+#### 💪 Core
 
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache
 - [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING VERY SOON`
 
-### Active
+#### 🙉 Active
 
 - [**noscan**](https://github.com/azurystudios/noscan) - a more flexible sdk for [unscan](https://unscan.co)
 - [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING VERY SOON`
