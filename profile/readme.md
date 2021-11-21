@@ -15,7 +15,7 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 #### 🙉 Active[*][active]
 
-- [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING VERY SOON`
+- [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler
 - [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING VERY SOON`
 - [**reacties**](https://github.com/azurystudios/reacties) - a vast suite of utilities for React `COMING SOON`
 - [**bunny.net**](https://github.com/azurystudios/bunny.net) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING`
