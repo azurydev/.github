@@ -11,10 +11,12 @@ We build products of the **highest quality**. Whether they're our products, tool
 ### Core
 
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache
-- [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING SOON`
+- [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING VERY SOON`
 
 ### Active
 
 - [**noscan**](https://github.com/azurystudios/noscan) - a more flexible sdk for [unscan](https://unscan.co)
-- [**bunny.net**](https://github.com/azurystudios/noscan) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING SOON`
-- [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING SOON`
+- [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING VERY SOON`
+- [**reacties**](https://github.com/azurystudios/reacties) - a vast suite of utilities for React `COMING SOON`
+- [**bunny.net**](https://github.com/azurystudios/bunny.net) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING`
+- [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING`
