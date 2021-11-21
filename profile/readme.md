@@ -8,12 +8,12 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 [**Azury**](https://azury.gg), an easy-to-use file-sharing network, is our flagship product.
 
-#### 💪 [Core][core]
+#### 💪 Core[*][core]
 
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache
 - [**noscan**](https://github.com/azurystudios/noscan) - a more flexible sdk for [unscan](https://unscan.co)
 
-#### 🙉 [Active][active]
+#### 🙉 Active[*][active]
 
 - [**cronu**](https://github.com/azurystudios/cronu) - a future-ready scheduler `COMING VERY SOON`
 - [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING VERY SOON`
