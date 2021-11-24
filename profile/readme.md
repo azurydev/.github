@@ -1,4 +1,4 @@
-## Wassup, this is us! 🤗
+## Wassup, this is us! 👋
 
 We build products of the **highest quality**. Whether they're our products, tools for third-party products, or anything else - we have them all in stock. We strive to gently but precisely build an empire that other companies can count on and people like you can trust. [We'd love to hear what you think!](https://azury.dev/feedback)
 
@@ -15,9 +15,9 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 #### 🙉 Active[*][active]
 
-- [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING VERY SOON`
-- [**bunny.net**](https://github.com/azurystudios/bunny.net) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING`
-- [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING`
+- [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING SOON`
+- [**bunny.net**](https://github.com/azurystudios/bunny.net) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING SOON`
+- [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING SOON`
 - [**cronu**](https://github.com/azurystudios/cronu) - a stupidly simple scheduler
 
 [core]: ## "Because these creations are critical for our ecosystem, we push out updates more frequently."
