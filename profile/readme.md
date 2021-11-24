@@ -20,5 +20,5 @@ We build products of the **highest quality**. Whether they're our products, tool
 - [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING`
 - [**cronu**](https://github.com/azurystudios/cronu) - a stupidly simple scheduler
 
-[core]: ## "Because these creations are extremely important to us, we push out updates frequently."
+[core]: ## "Because these creations are critical for our ecosystem, we push out updates extremely frequently."
 [active]: ## "These creations receive updates on a regular schedule."
