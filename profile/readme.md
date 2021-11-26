@@ -18,7 +18,6 @@ We build products of the **highest quality**. Whether they're our products, tool
 - [**twemazing**](https://github.com/azurystudios/twemazing) - an easy-to-use Twemoji library `COMING SOON`
 - [**bunny.net**](https://github.com/azurystudios/bunny.net) - a Node.js sdk for [bunny.net](https://bunny.net) `COMING SOON`
 - [**sharey**](https://github.com/azurystudios/sharey) - addon for cross-platform file-sharing `COMING SOON`
-- [**cronu**](https://github.com/azurystudios/cronu) - a stupidly simple scheduler
 
 [core]: ## "Because these creations are critical for our ecosystem, we push out updates more frequently."
 [active]: ## "These creations receive updates on a regular schedule."
