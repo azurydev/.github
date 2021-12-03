@@ -4,12 +4,14 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 🔗 [Visit our website](https://azury.gg) or, feel free to ✊ [join our Discord](https://azury.dev/discord)!
 
-### 🧩 Creations 🦄
+### Products
 
 [**Azury**](https://azury.gg), an easy-to-use file-sharing network, is our flagship product.
 
-#### 💪 Core[*][core]
+#### 🦄 Core[*][core]
 
+- [**sdk**](https://github.com/azurystudios/sdk)
+- [**widget**](https://github.com/azurystudios/widget) <br><br>
 - [**cachu**](https://github.com/azurystudios/cachu) - a minimalistic key-value cache
 - [**noscan**](https://github.com/azurystudios/noscan) - a more flexible sdk for [unscan](https://unscan.co)
 
