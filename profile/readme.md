@@ -8,7 +8,7 @@ We build products of the **highest quality**. Whether they're our products, tool
 
 [**Azury**](https://azury.gg), an easy-to-use file-sharing network, is our flagship product.
 
-#### 🦄 Core[*][core]
+#### 💗 Core[*][core]
 
 - [**sdk**](https://github.com/azurystudios/sdk)
 - [**widget**](https://github.com/azurystudios/widget) <br><br>
